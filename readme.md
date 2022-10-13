@@ -26,7 +26,7 @@
   
   ▫️ Com o <strong>background: url ( )</strong> , eu coloquei uma imagem para que ela seja o fundo do site. Eu também utilizei o background-size, para dá o tamanho da imagem de fundo.
   
-  ▫️ Fiz um formulário básico, com nome, telefone, email e uma caixa de sugestão. Usando o type do input correto para cada elemento. Eu pus o elemento <strong>placeholder</strong> para demarcar a área do input e deixar um visual mais atrativo e didático para o usuário.
+  ▫️ Fiz um formulário básico, com nome, telefone, email e uma caixa de sugestão. Usando o type do input correto para cada elemento. Eu coloquei o elemento <strong>placeholder</strong> para demarcar a área do input e deixar um visual mais atrativo e didático para o usuário.
   
   ▫️ Por fim eu usei o <strong>Background:linear-gradient</strong>, para ter uma visual mais chamativo para o cabeçalho e rodapé. Usufruindo das cores do personagem.
 </p>
